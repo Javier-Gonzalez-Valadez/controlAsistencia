@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(240,245,250); 
+ }
+.danger{  
+    color: red;
+}
+
+.alert{ 
+    color: yellow;
+}
+ 
+.ok{  
+    color: greenyellow;  
+}
+
+
+#perfil{
+    margin-top: 8px;
+}
+ 
+.pestaña{
+    background-color: midnightblue;
+    margin-bottom: -25px;
+    height: 10%;
+}
+
+.marco{
+    
+    margin: auto;
+    width: 90%;
+    outline:1.5px dashed rgb(0, 102, 255);
+    border-radius: 2%; 
+    background-color: #a5a2a2;
+    color: white; 
+}
+
+#registrarse{
+    background-color: midnightblue;
+    color: white;
+}
+
+.limpiarCampos{  
+    width: 50%;
+    background-color: midnightblue; 
+}
+ 
+#btnRegEmpCert{
+    
+    color: midnightblue; 
+    outline: 1.5px solid midnightblue
+}
+
+#btnRegAdmins{
+    
+    color: midnightblue; 
+    outline: 1.5px solid midnightblue
+}
+.sinLlenar{ 
+    border-color: rgb(255, 0, 0) !important; 
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075)inset, 0 0 8px rgba(255,0,0,0.6);
+}
+
+
+.noConfirmPasswd{
+    border-color: rgb(255, 255, 0) !important; 
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075)inset, 0 0 8px rgba(255,255,0,0.6);
+}
+
